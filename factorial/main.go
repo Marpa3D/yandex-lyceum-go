@@ -11,5 +11,6 @@ func factorial(n int) int {
 }
 
 func main() {
-	fmt.Println(factorial(5))
+	result := factorial(5)
+	fmt.Println(result)
 }

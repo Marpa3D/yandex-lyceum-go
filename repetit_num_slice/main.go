@@ -1,8 +1,6 @@
-// You can edit this code!
-// Click here and start typing.
+// Подсчет повторений в слайсе
 package main
 
-// Подсчет повторений в слайсе
 import "fmt"
 
 // countOcc - функция подсчета повторений в слайсе
